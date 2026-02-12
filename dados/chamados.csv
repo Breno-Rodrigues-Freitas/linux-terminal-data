@@ -1,0 +1,9 @@
+id,tecnico,setor,tempo_min,status
+1,Breno,Financeiro,35,Resolvido
+2,Carlos,RH,50,Resolvido
+3,Breno,TI,15,Pendente
+4,Ana,Financeiro,60,Resolvido
+5,Breno,RH,20,Resolvido
+6,Carlos,TI,90,Pendente
+7,Ana,RH,40,Resolvido
+8,Breno,Financeiro,55,Resolvido
